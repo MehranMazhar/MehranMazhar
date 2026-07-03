@@ -3,7 +3,6 @@
 **Senior full-stack engineer — 8+ years shipping production software.**
 Rust · TypeScript · React · Node.js · GraphQL · Docker — currently deep in blockchain infrastructure.
 
-- 🌍 Remote-friendly (UTC+3:30 — full EU overlap) · open to opportunities
 - 🌐 [mehranmazhar.com](https://mehranmazhar.com) · ✍️ [dev.to/mehran_mazhar](https://dev.to/mehran_mazhar) · 🐦 [@mehran_mazhar4](https://x.com/mehran_mazhar4)
 
 ---
